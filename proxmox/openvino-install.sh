@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Intel NPU Driver Installation Script for Frigate Docker Container
-# Updated for v1.19.0 (July 2025) and OpenVINO 2025.1 compatibility
+# Updated for v1.19.0 (July 2025) and OpenVINO 2025.2 compatibility
 # Downloads drivers on host, then copies into container
 
 set -e  # Exit on any error
